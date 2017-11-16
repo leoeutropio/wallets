@@ -1,4 +1,4 @@
-# wallets
+# Wallets
 
 Projeto da disciplina de Design de Software II, ministrada pelo professor Frederico Araújo da Silva Lopes.
 Em desenvolvimento pelos alunos Adonias Galvão Filho e Leonardo Eutrópio Ferreira de Oliviera.
