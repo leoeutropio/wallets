@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415679410638",
+    "firebase_url": "https://wallets-4223b.firebaseio.com",
+    "project_id": "wallets-4223b",
+    "storage_bucket": "wallets-4223b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415679410638:android:329a822882d75db0",
+        "android_client_info": {
+          "package_name": "com.example.stronda.wallets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415679410638-blcm1runk5qa9p0c1uiube7s6rm7i6nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stronda.wallets",
+            "certificate_hash": "dc09889ea4eb937d112ecd53f26a7e5e7d2a93d3"
+          }
+        },
+        {
+          "client_id": "415679410638-ucmd98loovsj4vjoj5sdhkg3g1kl2dpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwlH9bZ-c73vgVTBliSD5Tz9ZJcUX81M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415679410638-ucmd98loovsj4vjoj5sdhkg3g1kl2dpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
