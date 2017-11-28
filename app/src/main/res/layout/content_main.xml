@@ -8,4 +8,14 @@
     tools:context="com.example.stronda.wallets.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
+
+
+    <ListView
+        android:id="@+id/carteiras"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+    </ListView>
+
+
 </android.support.constraint.ConstraintLayout>
