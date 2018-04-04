@@ -2,6 +2,7 @@ package com.example.stronda.wallets;
 
 /**
  * Created by Stronda on 27/11/2017.
+ * Edição especial para GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS 
  */
 
 public class Carteira {
