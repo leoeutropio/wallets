@@ -15,6 +15,7 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 /**
  * Created by Stronda on 27/11/2017.
+ * Edição especial para GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS 
  */
 
 public class CarteiraAdapter extends ArrayAdapter<Carteira> {
